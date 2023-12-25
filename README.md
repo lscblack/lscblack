@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lscblack&limit=10&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&)
+![](https://github-contributor-stats.vercel.app/api?username=lscblack&limit=30&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
@@ -35,4 +35,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lscblack) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/lscblack) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lscblack) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Thanks For Your Time
