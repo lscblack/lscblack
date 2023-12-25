@@ -1,8 +1,8 @@
-## Author
-### Loue Sauveur Christian (*lscblack*)
+## GitHub Owner *Author of this account*
+### Loue Sauveur Christian **lscblack**
 ![Profile Views](https://komarev.com/ghpvc/?username=lscblack)
 
-## 🌐 Socials:
+## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/black-devil/)
 
 # 💻 Tech Stack:
