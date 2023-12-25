@@ -1,5 +1,6 @@
-## GitHub Owner *Author of this account*
-### Loue Sauveur Christian **lscblack**
+## About Me
+### Hi, I'm Loue Sauveur Christian, aka lscblack. I develop websites using cutting-edge technologies like React, Express, Flask, and more.  I'm passionate about infusing AI and machine learning algorithms into web-based applications and mobile development, constantly seeking innovative approaches to create groundbreaking solutions.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lscblack)
 
 ## 🌐 Social Media:
