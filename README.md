@@ -1,5 +1,5 @@
 ## About Me
- Hi, I'm **Loue Sauveur Christian,** aka **lscblack**. I develop web and mobile apps using cutting-edge technologies like React, Express, Flask, and more.  I'm passionate about infusing AI and machine learning algorithms into web-based applications and mobile development, constantly seeking innovative approaches to create groundbreaking solutions.
+ Hi, I'm **Loue Sauveur Christian,** aka **lscblack**. I develop web and mobile apps using cutting-edge technologies like **React, Express, Fast API**, and more.  I'm passionate about infusing AI and machine learning algorithms into web-based applications and mobile development, constantly seeking innovative approaches to create groundbreaking solutions.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lscblack)
 
