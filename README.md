@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lscblack)
 
 ## My Portfolio
-[Portfolio](https://lscblack.github.io/portfolio)
+[Portfolio](https://me.lscblack.tech/)
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/black-devil/)
 
